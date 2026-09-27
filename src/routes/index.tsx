@@ -167,8 +167,6 @@ function Index() {
                 className="portrait-image"
                 src="https://res.cloudinary.com/di0o174ky/image/upload/f_auto/q_auto/WhatsApp_Image_2026-09-27_at_11.39.22_jwietj.jpg"
               />
-              <div className="portrait-line portrait-line-one" />
-              <div className="portrait-line portrait-line-two" />
             </div>
             <p className="portrait-caption">
               Turning practical ideas into technology-driven solutions.
